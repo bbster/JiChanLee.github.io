@@ -1,12 +1,9 @@
-def print_hi():
-    print(f'Hi,')
-    print(f'Hi,asdfasdfa')
+def a():
+    print("a함수")
+    return "a"
 
+def b():
+    print("b")
+    return "b"
 
-if __name__ == '__main__':
-    print("test2")
-
-
-print("test1")
-print("test#")
-print("ㄴㅣ가 왜 나옴 시발")
+print("main.py", __name__)

@@ -1,3 +1,7 @@
-from main import print_hi
+from main import a,b
 
-print_hi()
+if __name__ == '__main__':
+    print("111")
+    print(a())
+    test = a()
+    print(test)
