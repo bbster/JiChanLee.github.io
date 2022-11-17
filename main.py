@@ -3,10 +3,6 @@ import fitz
 import os
 # print(os.listdir('/Users/bcd/Desktop/my_project/pdf'))
 # file_list = os.listdir('/Users/bcd/Desktop/my_project/pdf')
-#
-#
-#
-# #
 
 
 def parse(pdf_file_name):
