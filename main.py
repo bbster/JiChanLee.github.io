@@ -45,12 +45,6 @@ if __name__ == '__main__':
     print(table_data)
 print("--------------------------------------------------------------------------------------------------------")
 
-# """
-# b'Order details:\nCustomer:\nTotal Items:\nTotal Whole Sale:\nTotal Retail:\n\n4062, Nov 15 2022 9:28AM\nBCD co - LEE TAE HYEON\n1\n63.0\n71.0\n\nCSG-G-M (20)\n\nCategory\nPANTALONI\n\nDesigner\nVERSACE JEANS\n\nSex Model\nUOMO 73GAAT06CF00T C89\n\nSeason Whole Sale\n22W\n\n63.0\n\nRetail Discount\n143.44\n\n50.0\n\nSize Qty\n\nL\n\n1\n\n\x0c'
-# Order details:Customer:Total Items:Total Whole Sale:Total Retail:4062, Nov 15 2022 9:28AMBCD co - LEE TAE HYEON163.071.0CSG-G-M (20)CategoryPANTALONIDesignerVERSACE JEANSSex ModelUOMO 73GAAT06CF00T C89Season Whole Sale22W63.0Retail Discount143.4450.0Size QtyL1
-#
-# """
-
 # 1. pdf 다운로드 한다. (java에서)
 # 2. 다운로드 한 파일의 경로를 인수로, 파이썬 파일을 호출한다.
 #  ex) python main.py {다운로드 파일 경로}
