@@ -39,7 +39,7 @@ def parse(pdf_file_name):
 
 if __name__ == '__main__':
     pdf_filename = sys.argv[1]
-    # order_data, table_data = parse(f"pdf/BCD co - LEE TAE HYEON (1).pdf")
+    # order_data, table_data = parse(f"file_path, file_name")
     order_data, table_data = parse(pdf_filename)
     print(order_data)
     print(table_data)
